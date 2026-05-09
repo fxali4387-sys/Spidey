@@ -1,4 +1,3 @@
-# Spidey
 export default function SpiderManAssembling() {
   const parts = [
     { name: 'Mask', emoji: '🕷️' },
